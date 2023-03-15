@@ -1,0 +1,73 @@
+Epoch 1/100
+44/44 [==============================] - ETA: 0s - loss: 26.5466 - categorical_accuracy: 0.2321
+Epoch 1: val_categorical_accuracy improved from -inf to 0.30523, saving model to models\base_model.h5
+44/44 [==============================] - 8s 117ms/step - loss: 26.5466 - categorical_accuracy: 0.2321 - val_loss: 1.6581 - val_categorical_accuracy: 0.3052 - lr: 1.0000e-04
+Epoch 2/100
+43/44 [============================>.] - ETA: 0s - loss: 1.3308 - categorical_accuracy: 0.4862
+Epoch 2: val_categorical_accuracy improved from 0.30523 to 0.46802, saving model to models\base_model.h5
+44/44 [==============================] - 4s 94ms/step - loss: 1.3299 - categorical_accuracy: 0.4866 - val_loss: 1.3951 - val_categorical_accuracy: 0.4680 - lr: 1.0000e-04
+Epoch 3/100
+43/44 [============================>.] - ETA: 0s - loss: 0.8184 - categorical_accuracy: 0.7238
+Epoch 3: val_categorical_accuracy improved from 0.46802 to 0.56395, saving model to models\base_model.h5
+44/44 [==============================] - 4s 95ms/step - loss: 0.8173 - categorical_accuracy: 0.7244 - val_loss: 1.2065 - val_categorical_accuracy: 0.5640 - lr: 1.0000e-04
+Epoch 4/100
+43/44 [============================>.] - ETA: 0s - loss: 0.4266 - categorical_accuracy: 0.8837
+Epoch 4: val_categorical_accuracy did not improve from 0.56395
+44/44 [==============================] - 4s 85ms/step - loss: 0.4257 - categorical_accuracy: 0.8840 - val_loss: 1.5985 - val_categorical_accuracy: 0.4942 - lr: 1.0000e-04
+Epoch 5/100
+43/44 [============================>.] - ETA: 0s - loss: 0.2366 - categorical_accuracy: 0.9382
+Epoch 5: val_categorical_accuracy did not improve from 0.56395
+
+Epoch 5: ReduceLROnPlateau reducing learning rate to 4.999999873689376e-05.
+44/44 [==============================] - 4s 85ms/step - loss: 0.2362 - categorical_accuracy: 0.9384 - val_loss: 1.4494 - val_categorical_accuracy: 0.5465 - lr: 1.0000e-04
+Epoch 6/100
+43/44 [============================>.] - ETA: 0s - loss: 0.0822 - categorical_accuracy: 0.9935
+Epoch 6: val_categorical_accuracy improved from 0.56395 to 0.56686, saving model to models\base_model.h5
+44/44 [==============================] - 4s 95ms/step - loss: 0.0821 - categorical_accuracy: 0.9935 - val_loss: 1.3900 - val_categorical_accuracy: 0.5669 - lr: 5.0000e-05
+Epoch 7/100
+43/44 [============================>.] - ETA: 0s - loss: 0.0387 - categorical_accuracy: 1.0000
+Epoch 7: val_categorical_accuracy improved from 0.56686 to 0.59884, saving model to models\base_model.h5
+44/44 [==============================] - 4s 95ms/step - loss: 0.0386 - categorical_accuracy: 1.0000 - val_loss: 1.4142 - val_categorical_accuracy: 0.5988 - lr: 5.0000e-05
+Epoch 8/100
+43/44 [============================>.] - ETA: 0s - loss: 0.0212 - categorical_accuracy: 1.0000
+Epoch 8: val_categorical_accuracy did not improve from 0.59884
+44/44 [==============================] - 4s 85ms/step - loss: 0.0212 - categorical_accuracy: 1.0000 - val_loss: 1.4795 - val_categorical_accuracy: 0.5988 - lr: 5.0000e-05
+Epoch 9/100
+43/44 [============================>.] - ETA: 0s - loss: 0.0143 - categorical_accuracy: 1.0000
+Epoch 9: val_categorical_accuracy did not improve from 0.59884
+
+Epoch 9: ReduceLROnPlateau reducing learning rate to 2.499999936844688e-05.
+44/44 [==============================] - 4s 85ms/step - loss: 0.0142 - categorical_accuracy: 1.0000 - val_loss: 1.5589 - val_categorical_accuracy: 0.5959 - lr: 5.0000e-05
+Epoch 10/100
+43/44 [============================>.] - ETA: 0s - loss: 0.0093 - categorical_accuracy: 1.0000
+Epoch 10: val_categorical_accuracy did not improve from 0.59884
+44/44 [==============================] - 4s 85ms/step - loss: 0.0093 - categorical_accuracy: 1.0000 - val_loss: 1.5702 - val_categorical_accuracy: 0.5988 - lr: 2.5000e-05
+Epoch 11/100
+43/44 [============================>.] - ETA: 0s - loss: 0.0076 - categorical_accuracy: 1.0000
+Epoch 11: val_categorical_accuracy improved from 0.59884 to 0.60465, saving model to models\base_model.h5
+44/44 [==============================] - 4s 96ms/step - loss: 0.0076 - categorical_accuracy: 1.0000 - val_loss: 1.6025 - val_categorical_accuracy: 0.6047 - lr: 2.5000e-05
+Epoch 12/100
+43/44 [============================>.] - ETA: 0s - loss: 0.0070 - categorical_accuracy: 1.0000
+Epoch 12: val_categorical_accuracy did not improve from 0.60465
+44/44 [==============================] - 4s 85ms/step - loss: 0.0069 - categorical_accuracy: 1.0000 - val_loss: 1.5946 - val_categorical_accuracy: 0.5901 - lr: 2.5000e-05
+Epoch 13/100
+43/44 [============================>.] - ETA: 0s - loss: 0.0056 - categorical_accuracy: 1.0000
+Epoch 13: val_categorical_accuracy did not improve from 0.60465
+
+Epoch 13: ReduceLROnPlateau reducing learning rate to 1.249999968422344e-05.
+44/44 [==============================] - 4s 86ms/step - loss: 0.0056 - categorical_accuracy: 1.0000 - val_loss: 1.6457 - val_categorical_accuracy: 0.5901 - lr: 2.5000e-05
+Epoch 14/100
+43/44 [============================>.] - ETA: 0s - loss: 0.0049 - categorical_accuracy: 1.0000
+Epoch 14: val_categorical_accuracy did not improve from 0.60465
+44/44 [==============================] - 4s 86ms/step - loss: 0.0049 - categorical_accuracy: 1.0000 - val_loss: 1.6576 - val_categorical_accuracy: 0.5988 - lr: 1.2500e-05
+Epoch 15/100
+43/44 [============================>.] - ETA: 0s - loss: 0.0045 - categorical_accuracy: 1.0000
+Epoch 15: val_categorical_accuracy did not improve from 0.60465
+
+Epoch 15: ReduceLROnPlateau reducing learning rate to 6.24999984211172e-06.
+44/44 [==============================] - 4s 86ms/step - loss: 0.0045 - categorical_accuracy: 1.0000 - val_loss: 1.6627 - val_categorical_accuracy: 0.5959 - lr: 1.2500e-05
+Epoch 16/100
+43/44 [============================>.] - ETA: 0s - loss: 0.0041 - categorical_accuracy: 1.0000
+Epoch 16: val_categorical_accuracy did not improve from 0.60465
+44/44 [==============================] - 4s 86ms/step - loss: 0.0041 - categorical_accuracy: 1.0000 - val_loss: 1.6749 - val_categorical_accuracy: 0.5901 - lr: 6.2500e-06
+Epoch 16: early stopping

@@ -1,6 +1,6 @@
 # Image Classification on wild Animals Dataset
 
-This repository contains code and blog on how to build a Image Classifier on Wild Animal Dataset in python. In this project, I have experimented with various machine learning and Deep learning Algorithms and compared their performance. 
+This folder contains code and blog on how to build a Image Classifier on Wild Animal Dataset in python. In this project, I have experimented with various machine learning and Deep learning Algorithms and compared their performance. 
 
 ## Dataset
 
@@ -27,6 +27,4 @@ Trained Models will be saved into a directory called `models` in the current dir
 
 ## Blog
 
-You can read the blog on this project [here](Image_Classification-Wild_Animal_Dataset.pdf).
-
-For any queries, feel free to open an issue.
+You can read the blog on this project [here]().

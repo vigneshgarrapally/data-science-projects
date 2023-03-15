@@ -1,0 +1,87 @@
+Epoch 1/100
+173/173 [==============================] - ETA: 0s - loss: 0.8134 - categorical_accuracy: 0.7846
+Epoch 1: val_categorical_accuracy improved from -inf to 0.91860, saving model to models\effnv2_model.h5
+173/173 [==============================] - 30s 98ms/step - loss: 0.8134 - categorical_accuracy: 0.7846 - val_loss: 0.2308 - val_categorical_accuracy: 0.9186 - lr: 0.0010
+Epoch 2/100
+173/173 [==============================] - ETA: 0s - loss: 0.5114 - categorical_accuracy: 0.8484
+Epoch 2: val_categorical_accuracy improved from 0.91860 to 0.92442, saving model to models\effnv2_model.h5
+173/173 [==============================] - 14s 80ms/step - loss: 0.5114 - categorical_accuracy: 0.8484 - val_loss: 0.2399 - val_categorical_accuracy: 0.9244 - lr: 0.0010
+Epoch 3/100
+172/173 [============================>.] - ETA: 0s - loss: 0.3612 - categorical_accuracy: 0.8888
+Epoch 3: val_categorical_accuracy improved from 0.92442 to 0.93605, saving model to models\effnv2_model.h5
+173/173 [==============================] - 13s 77ms/step - loss: 0.3677 - categorical_accuracy: 0.8883 - val_loss: 0.2341 - val_categorical_accuracy: 0.9360 - lr: 0.0010
+Epoch 4/100
+172/173 [============================>.] - ETA: 0s - loss: 0.4072 - categorical_accuracy: 0.8757
+Epoch 4: val_categorical_accuracy did not improve from 0.93605
+173/173 [==============================] - 13s 74ms/step - loss: 0.4099 - categorical_accuracy: 0.8753 - val_loss: 0.2277 - val_categorical_accuracy: 0.9215 - lr: 0.0010
+Epoch 5/100
+173/173 [==============================] - ETA: 0s - loss: 0.3343 - categorical_accuracy: 0.8999
+Epoch 5: val_categorical_accuracy did not improve from 0.93605
+
+Epoch 5: ReduceLROnPlateau reducing learning rate to 0.0005000000237487257.
+173/173 [==============================] - 13s 75ms/step - loss: 0.3343 - categorical_accuracy: 0.8999 - val_loss: 0.1946 - val_categorical_accuracy: 0.9331 - lr: 0.0010
+Epoch 6/100
+173/173 [==============================] - ETA: 0s - loss: 0.1728 - categorical_accuracy: 0.9529
+Epoch 6: val_categorical_accuracy improved from 0.93605 to 0.97384, saving model to models\effnv2_model.h5
+173/173 [==============================] - 14s 82ms/step - loss: 0.1728 - categorical_accuracy: 0.9529 - val_loss: 0.0791 - val_categorical_accuracy: 0.9738 - lr: 5.0000e-04
+Epoch 7/100
+172/173 [============================>.] - ETA: 0s - loss: 0.0788 - categorical_accuracy: 0.9753
+Epoch 7: val_categorical_accuracy did not improve from 0.97384
+173/173 [==============================] - 14s 78ms/step - loss: 0.0787 - categorical_accuracy: 0.9753 - val_loss: 0.0892 - val_categorical_accuracy: 0.9680 - lr: 5.0000e-04
+Epoch 8/100
+173/173 [==============================] - ETA: 0s - loss: 0.0542 - categorical_accuracy: 0.9819
+Epoch 8: val_categorical_accuracy did not improve from 0.97384
+
+Epoch 8: ReduceLROnPlateau reducing learning rate to 0.0002500000118743628.
+173/173 [==============================] - 13s 76ms/step - loss: 0.0542 - categorical_accuracy: 0.9819 - val_loss: 0.0678 - val_categorical_accuracy: 0.9709 - lr: 5.0000e-04
+Epoch 9/100
+172/173 [============================>.] - ETA: 0s - loss: 0.0466 - categorical_accuracy: 0.9847
+Epoch 9: val_categorical_accuracy improved from 0.97384 to 0.97965, saving model to models\effnv2_model.h5
+173/173 [==============================] - 13s 76ms/step - loss: 0.0473 - categorical_accuracy: 0.9840 - val_loss: 0.0463 - val_categorical_accuracy: 0.9797 - lr: 2.5000e-04
+Epoch 10/100
+172/173 [============================>.] - ETA: 0s - loss: 0.0489 - categorical_accuracy: 0.9884
+Epoch 10: val_categorical_accuracy did not improve from 0.97965
+173/173 [==============================] - 12s 72ms/step - loss: 0.0488 - categorical_accuracy: 0.9884 - val_loss: 0.0556 - val_categorical_accuracy: 0.9797 - lr: 2.5000e-04
+Epoch 11/100
+172/173 [============================>.] - ETA: 0s - loss: 0.0337 - categorical_accuracy: 0.9862
+Epoch 11: val_categorical_accuracy did not improve from 0.97965
+
+Epoch 11: ReduceLROnPlateau reducing learning rate to 0.0001250000059371814.
+173/173 [==============================] - 12s 72ms/step - loss: 0.0336 - categorical_accuracy: 0.9862 - val_loss: 0.0689 - val_categorical_accuracy: 0.9680 - lr: 2.5000e-04
+Epoch 12/100
+172/173 [============================>.] - ETA: 0s - loss: 0.0291 - categorical_accuracy: 0.9920
+Epoch 12: val_categorical_accuracy improved from 0.97965 to 0.98256, saving model to models\effnv2_model.h5
+173/173 [==============================] - 13s 78ms/step - loss: 0.0291 - categorical_accuracy: 0.9920 - val_loss: 0.0495 - val_categorical_accuracy: 0.9826 - lr: 1.2500e-04
+Epoch 13/100
+172/173 [============================>.] - ETA: 0s - loss: 0.0166 - categorical_accuracy: 0.9942
+Epoch 13: val_categorical_accuracy improved from 0.98256 to 0.98547, saving model to models\effnv2_model.h5
+173/173 [==============================] - 14s 78ms/step - loss: 0.0166 - categorical_accuracy: 0.9942 - val_loss: 0.0419 - val_categorical_accuracy: 0.9855 - lr: 1.2500e-04
+Epoch 14/100
+173/173 [==============================] - ETA: 0s - loss: 0.0177 - categorical_accuracy: 0.9956
+Epoch 14: val_categorical_accuracy improved from 0.98547 to 0.99128, saving model to models\effnv2_model.h5
+173/173 [==============================] - 14s 82ms/step - loss: 0.0177 - categorical_accuracy: 0.9956 - val_loss: 0.0457 - val_categorical_accuracy: 0.9913 - lr: 1.2500e-04
+Epoch 15/100
+173/173 [==============================] - ETA: 0s - loss: 0.0260 - categorical_accuracy: 0.9949
+Epoch 15: val_categorical_accuracy did not improve from 0.99128
+173/173 [==============================] - 13s 76ms/step - loss: 0.0260 - categorical_accuracy: 0.9949 - val_loss: 0.0512 - val_categorical_accuracy: 0.9797 - lr: 1.2500e-04
+Epoch 16/100
+173/173 [==============================] - ETA: 0s - loss: 0.0152 - categorical_accuracy: 0.9978
+Epoch 16: val_categorical_accuracy did not improve from 0.99128
+
+Epoch 16: ReduceLROnPlateau reducing learning rate to 6.25000029685907e-05.
+173/173 [==============================] - 13s 76ms/step - loss: 0.0152 - categorical_accuracy: 0.9978 - val_loss: 0.0425 - val_categorical_accuracy: 0.9913 - lr: 1.2500e-04
+Epoch 17/100
+172/173 [============================>.] - ETA: 0s - loss: 0.0111 - categorical_accuracy: 0.9985
+Epoch 17: val_categorical_accuracy did not improve from 0.99128
+173/173 [==============================] - 13s 76ms/step - loss: 0.0111 - categorical_accuracy: 0.9985 - val_loss: 0.0471 - val_categorical_accuracy: 0.9797 - lr: 6.2500e-05
+Epoch 18/100
+172/173 [============================>.] - ETA: 0s - loss: 0.0201 - categorical_accuracy: 0.9927
+Epoch 18: val_categorical_accuracy did not improve from 0.99128
+
+Epoch 18: ReduceLROnPlateau reducing learning rate to 3.125000148429535e-05.
+173/173 [==============================] - 13s 77ms/step - loss: 0.0200 - categorical_accuracy: 0.9927 - val_loss: 0.0438 - val_categorical_accuracy: 0.9855 - lr: 6.2500e-05
+Epoch 19/100
+173/173 [==============================] - ETA: 0s - loss: 0.0089 - categorical_accuracy: 0.9978
+Epoch 19: val_categorical_accuracy did not improve from 0.99128
+173/173 [==============================] - 13s 76ms/step - loss: 0.0089 - categorical_accuracy: 0.9978 - val_loss: 0.0447 - val_categorical_accuracy: 0.9855 - lr: 3.1250e-05
+Epoch 19: early stopping
