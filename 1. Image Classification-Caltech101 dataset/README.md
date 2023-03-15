@@ -27,8 +27,8 @@ It will open the jupyter notebook in your browser. You can run the code cells in
 
 ## Blog:
 
-The blog post for this project can be found [here](/1.%20Image%20Classification-Caltech101%20dataset/1.Image%20Classification-Caltech101%20dataset).
+The blog post for this project can be found [here](https://vigneshgarrapally.github.io/data-science-projects/1.%20Image%20Classification-Caltech101%20dataset/1.Image%20Classification-Caltech101%20dataset).
 
 ## Code:
 
-The code for this project can be found [here](/1.%20Image%20Classification-Caltech101%20dataset/Image%20Classification%20-%20Caltech101%20Dataset.html).
+The code for this project can be found [here](https://vigneshgarrapally.github.io/data-science-projects/1.%20Image%20Classification-Caltech101%20dataset/Image%20Classification%20-%20Caltech101%20Dataset.html).
