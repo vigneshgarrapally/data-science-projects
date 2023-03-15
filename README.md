@@ -13,7 +13,7 @@ Each project is organized into a separate folder with its own README file that p
 
 ## Datasets
 
-This repository also includes a collection of datasets that I have used for these projects. These datasets are located in the [`datasets`](/datasets/) folder and are organized by topic.
+This repository also includes a collection of datasets that I have used for these projects. These datasets are located in the [`datasets`](datasets/) folder and are organized by topic.
 
 ## Getting Started
 
