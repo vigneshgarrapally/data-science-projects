@@ -1,19 +1,19 @@
-# data-science-projects
+# [data-science-projects](https://github.com/vigneshgarrapally/data-science-projects)
 
 This repository contains a collection of data science projects that I have worked on. The projects cover a range of topics, including data analysis, machine learning, data visualization, and more.
 
 ## Projects
 
-1. Project 1: Image Classification-Caltech101 dataset
-2. Project 2: Naïve Bayes Classifier for Text Classification
-3. Project 3: Image Classification-Wild Animal Dataset
+1. [Project 1: Image Classification-Caltech101 dataset](/1.%20Image%20Classification-Caltech101%20dataset/)
+2. [Project 2: Naïve Bayes Classifier for Text Classification](2.%20Na%C3%AFve%20Bayes%20Classifier%20for%20Text%20Classification)
+3. [Project 3: Image Classification-Wild Animal Dataset](3.%20Image%20Classification-Wild%20Animal%20Dataset)
 
 
 Each project is organized into a separate folder with its own README file that provides a brief overview of the project, its objectives, and the techniques used. The README files also include instructions on how to replicate the results, as well as any necessary dependencies.
 
 ## Datasets
 
-This repository also includes a collection of datasets that I have used for these projects. These datasets are located in the datasets folder and are organized by topic.
+This repository also includes a collection of datasets that I have used for these projects. These datasets are located in the [`datasets`](/datasets/) folder and are organized by topic.
 
 ## Getting Started
 
