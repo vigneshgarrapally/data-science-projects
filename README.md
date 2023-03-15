@@ -4,7 +4,7 @@ This repository contains a collection of data science projects that I have worke
 
 ## Projects
 
-1. [Project 1: Image Classification-Caltech101 dataset]({{relative_url}}/1.%20Image%20Classification-Caltech101%20dataset/)
+1. [Project 1: Image Classification-Caltech101 dataset](./1.%20Image%20Classification-Caltech101%20dataset/)
 2. [Project 2: Naïve Bayes Classifier for Text Classification](2.%20Na%C3%AFve%20Bayes%20Classifier%20for%20Text%20Classification)
 3. [Project 3: Image Classification-Wild Animal Dataset](3.%20Image%20Classification-Wild%20Animal%20Dataset)
 
