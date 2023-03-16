@@ -26,8 +26,8 @@ It will open the jupyter notebook in your browser. You can run the code cells in
 
 ## Blog:
 
-The blog post for this project can be found [here](https://vigneshgarrapally.github.io/data-science-projects/2.%20Na%C3%AFve%20Bayes%20Classifier%20for%20Text%20Classification/%20Na%C3%AFve%20Bayes%20Classifier%20for%20Text%20Classification).
+The blog post for this project can be found [here](https://vigneshgarrapally.github.io/data-science-projects/2.%20Na%C3%AFve%20Bayes%20Classifier%20for%20Text%20Classification/Na%C3%AFve%20Bayes%20Classifier%20for%20Text%20Classification).
 
 ## Code:
 
-The code for this project can be found [here](https://vigneshgarrapally.github.io/data-science-projects/2.%20Na%C3%AFve%20Bayes%20Classifier%20for%20Text%20Classification/Nave_Bayes_Classifier_for_Text_Classification.html).
+The code for this project can be found [here](https://vigneshgarrapally.github.io/data-science-projects/2.%20Na%C3%AFve%20Bayes%20Classifier%20for%20Text%20Classification/Naïve_Bayes_Classifier_for_Text_Classification.html).

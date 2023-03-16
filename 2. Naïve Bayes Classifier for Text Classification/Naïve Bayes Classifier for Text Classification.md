@@ -41,7 +41,7 @@ P(X1, X2, …, Xd) is the probability that X occurs. This is also called as ****
 
 ## Implementation:
 
-As the algorithm is easy to implement, no external modules are required to implement the algorithm. Below are the steps followed to implement this assignment.
+As the algorithm is easy to implement, no external modules are required to implement the algorithm. Below are the steps followed to implement this project.
 
 ******Step-1: Loading the data and pre-processing******
 
@@ -223,7 +223,7 @@ Below are list of my contributions for building an text classifier using Naïve 
 
 ## Challenges Encountered and Resolutions:
 
-While solving the assignment, I encountered few challenges. Below are challenges and how I resolved them.
+While solving the project, I encountered few challenges. Below are challenges and how I resolved them.
 
 1. The biggest challenge I encountered is to formulate the algorithm without any libraries efficiently.
     
@@ -231,7 +231,7 @@ While solving the assignment, I encountered few challenges. Below are challenges
     
 2. I also found it little difficult to understand NBC algorithm. 
     
-    By going through lecture notes and some online blogs, I could get a clear understanding of the algorithm easily which eventually helped me in solving this assignment.
+    By going through lecture notes and some online blogs, I could get a clear understanding of the algorithm easily which eventually helped me in solving this project.
     
 
 ## References:

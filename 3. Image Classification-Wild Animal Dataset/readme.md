@@ -38,4 +38,4 @@ Trained Models will be saved into a directory called `models` in the current dir
 
 ## Blog
 
-You can read the blog on this project [here]().
+You can read the blog on this project [here](https://vigneshgarrapally.github.io/data-science-projects/3.%20Image%20Classification-Wild%20Animal%20Dataset%2FImage%20Classification-Wild%20Animal%20Dataset).
