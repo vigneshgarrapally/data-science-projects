@@ -1,6 +1,17 @@
 # Image Classification on wild Animals Dataset
 
-This folder contains code and blog on how to build a Image Classifier on Wild Animal Dataset in python. In this project, I have experimented with various machine learning and Deep learning Algorithms and compared their performance. 
+This folder contains code and blog on how to build a Image Classifier on Wild Animal Dataset in python. In this project, I have experimented with various machine learning and Deep learning Algorithms and compared their performance.
+
+## Objective
+
+The objective of this project is to build a robust classifier to identify 6 different animals given a picture. List of animals we are going to classify are 
+
+1. Cheetah
+2. Fox
+3. Hyena
+4. Lion
+5. tiger
+6. Wolf
 
 ## Dataset
 
